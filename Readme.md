@@ -42,21 +42,19 @@ Our solution proposes a **lightweight AI-powered recommendation engine** that si
   - Seamless integration with existing **PM Internship Scheme Portal**  
   - Minimal computational overhead  
 
-  - ## 🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 ### Backend
 ```bash
 cd backend
 python app.py
 
-
 ### Frontend
 ```bash
 npm run dev
-
-
 ---
 
+```
 ## Impact  
 
 By empowering youth with guided, personalized recommendations, the system:  
