@@ -67,7 +67,7 @@ By empowering youth with guided, personalized recommendations, the system:
 ---
 
 ## Demo Video
-![Team members](assets/Demo%20Video.mp4)
+![Demo](assets/Demo%20Video.mp4)
 
 ## Team 
 **Team Name:** Squiders  
